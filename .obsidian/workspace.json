@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHASE 6 - Kubernetes & Container Orchestration/25-26-ISTIO-GITOPS/25-26-ISTIO-GITOPS.md",
+                "file": "PHASE 7 - Observability & SIEM/27.OBSERVABILITY-MONITORING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-26-ISTIO-GITOPS"
+              "title": "27.OBSERVABILITY-MONITORING"
             }
           }
         ]
@@ -201,6 +201,9 @@
   },
   "active": "9aa943e47b17617b",
   "lastOpenFiles": [
+    "PHASE 6 - Kubernetes & Container Orchestration/PHASE-6-COMPLETE/PHASE-6-COMPLETE.md",
+    "PHASE 6 - Kubernetes & Container Orchestration/ARCHITECTURE-UPDATE-3CP-HA/ARCHITECTURE-UPDATE-3CP-HA.md",
+    "PHASE 6 - Kubernetes & Container Orchestration/25-26-ISTIO-GITOPS/25-26-ISTIO-GITOPS.md",
     "PHASE 6 - Kubernetes & Container Orchestration/24.HELM-PACKAGE-MANAGEMENT/24.HELM-PACKAGE-MANAGEMENT.md",
     "PHASE 6 - Kubernetes & Container Orchestration/23.KUBERNETES-HA-3CP-UPDATED/08.Kubernetes Gateway API.md",
     "PHASE 6 - Kubernetes & Container Orchestration/23.KUBERNETES-HA-3CP-UPDATED/07.Kubernetes Advanced Networking.md",
